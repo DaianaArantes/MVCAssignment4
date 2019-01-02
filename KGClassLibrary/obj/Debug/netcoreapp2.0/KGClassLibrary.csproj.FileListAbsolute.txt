@@ -1,0 +1,27 @@
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGClassLibrary\bin\Debug\netcoreapp2.0\KGClassLibrary.deps.json
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGClassLibrary\bin\Debug\netcoreapp2.0\KGClassLibrary.dll
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGClassLibrary\bin\Debug\netcoreapp2.0\KGClassLibrary.pdb
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGClassLibrary\obj\Debug\netcoreapp2.0\KGClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGClassLibrary\obj\Debug\netcoreapp2.0\KGClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGClassLibrary\obj\Debug\netcoreapp2.0\KGClassLibrary.AssemblyInfoInputs.cache
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGClassLibrary\obj\Debug\netcoreapp2.0\KGClassLibrary.AssemblyInfo.cs
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGClassLibrary\obj\Debug\netcoreapp2.0\KGClassLibrary.dll
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGClassLibrary\obj\Debug\netcoreapp2.0\KGClassLibrary.pdb
+C:\Users\darantesdeassis1750\Downloads\KGSail\KGSail\KGClassLibrary\bin\Debug\netcoreapp2.0\KGClassLibrary.deps.json
+C:\Users\darantesdeassis1750\Downloads\KGSail\KGSail\KGClassLibrary\bin\Debug\netcoreapp2.0\KGClassLibrary.dll
+C:\Users\darantesdeassis1750\Downloads\KGSail\KGSail\KGClassLibrary\bin\Debug\netcoreapp2.0\KGClassLibrary.pdb
+C:\Users\darantesdeassis1750\Downloads\KGSail\KGSail\KGClassLibrary\obj\Debug\netcoreapp2.0\KGClassLibrary.csprojAssemblyReference.cache
+C:\Users\darantesdeassis1750\Downloads\KGSail\KGSail\KGClassLibrary\obj\Debug\netcoreapp2.0\KGClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\darantesdeassis1750\Downloads\KGSail\KGSail\KGClassLibrary\obj\Debug\netcoreapp2.0\KGClassLibrary.AssemblyInfoInputs.cache
+C:\Users\darantesdeassis1750\Downloads\KGSail\KGSail\KGClassLibrary\obj\Debug\netcoreapp2.0\KGClassLibrary.AssemblyInfo.cs
+C:\Users\darantesdeassis1750\Downloads\KGSail\KGSail\KGClassLibrary\obj\Debug\netcoreapp2.0\KGClassLibrary.dll
+C:\Users\darantesdeassis1750\Downloads\KGSail\KGSail\KGClassLibrary\obj\Debug\netcoreapp2.0\KGClassLibrary.pdb
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGSail\KGClassLibrary\bin\Debug\netcoreapp2.0\KGClassLibrary.deps.json
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGSail\KGClassLibrary\bin\Debug\netcoreapp2.0\KGClassLibrary.dll
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGSail\KGClassLibrary\bin\Debug\netcoreapp2.0\KGClassLibrary.pdb
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGSail\KGClassLibrary\obj\Debug\netcoreapp2.0\KGClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGSail\KGClassLibrary\obj\Debug\netcoreapp2.0\KGClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGSail\KGClassLibrary\obj\Debug\netcoreapp2.0\KGClassLibrary.AssemblyInfoInputs.cache
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGSail\KGClassLibrary\obj\Debug\netcoreapp2.0\KGClassLibrary.AssemblyInfo.cs
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGSail\KGClassLibrary\obj\Debug\netcoreapp2.0\KGClassLibrary.dll
+C:\Users\daian\OneDrive\College\Web Tech\KGSail\KGSail\KGSail\KGClassLibrary\obj\Debug\netcoreapp2.0\KGClassLibrary.pdb
